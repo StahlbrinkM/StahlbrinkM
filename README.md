@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcus, 19 year old frontend dev in the making.
+- 👋 Hi, I’m Marcus, 20 year old frontend dev in the making.
 
 - 🌱 I’m currently learning React :]
 
