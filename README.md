@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning React :]
 
-- 📫 Reach me on discord: Kage#9656
+- 📫 Reach me on discord: stalbrink
